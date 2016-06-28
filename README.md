@@ -1,2 +1,2 @@
-# curso-git-fatec
+# Lucas Rios
 fatec 2016
