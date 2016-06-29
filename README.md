@@ -11,4 +11,6 @@
 ## Habilidades
 - Linguagens: Java, Html, css, javascript e php
 - Idiomas: Inglês Avançado
-- Ferramentas: Github, c9, dropbox, Netbeans, eclipse
+- Ferramentas: Github, c9, dropbox, Netbeans, eclips
+
+## Ultimos Livros
