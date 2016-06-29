@@ -17,3 +17,4 @@
 - Guerra Civil 
 - O Simbolo Perdido
 - O Hobbit
+- 50 tons de cinza
