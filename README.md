@@ -14,3 +14,6 @@
 - Ferramentas: Github, c9, dropbox, Netbeans, eclips
 
 ## Ultimos Livros
+- Guerra Civil 
+- O Simbolo Perdido
+- O Hobbit
