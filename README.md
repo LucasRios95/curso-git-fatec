@@ -18,3 +18,6 @@
 - O Simbolo Perdido
 - O Hobbit
 - 50 tons de cinza
+
+## Estado Civil
+- Solteiro
