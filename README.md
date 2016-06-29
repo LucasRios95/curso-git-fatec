@@ -9,6 +9,6 @@
 - 6 meses de estagio em desenvolvimento web
 
 ## Habilidades
-- Java orientado a objetos
-- Php
-- Html, css e javascript
+- Linguagens: Java, Html, css, javascript e php
+- Idiomas: Inglês Avançado
+- Ferramentas: Github, c9, dropbox, Netbeans, eclipse
