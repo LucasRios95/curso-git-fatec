@@ -1,4 +1,4 @@
-# Luvas Rios
+# Luxas Rios
 
 ## Formação 
 - Cursando analise e desenvolvimento de sistemas 
